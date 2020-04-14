@@ -1,4 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Glad to see you here </h2>
-<h2> Testing with Docker File lecture 18 !! </h2>
-<h3> Added by Shilpi while deploying on Tomcat VM </h3>
+<h2> Run Ansible playbook from Jenkins, creatin a war file, run playbook to create image and container </h2>
